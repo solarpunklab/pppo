@@ -80,10 +80,10 @@ This innovative device utilizes a clever joule thief boost converter to efficien
 In need of reliable 5V DC power? The Solar Thief has you covered, delivering power in short, consistent intervals. Whether it's a sunny day or overcast, this harvester performs admirably, even in low light conditions. It adapts to the solar intensity, providing energy bursts that ensure your devices stay powered when they need it most.
 <br>
 Perfect for powering small remote sensors, the Solar Thief Energy Harvester offers a sustainable, off-grid solution. With this device, you can keep your sensors running indefinitely, making it an ideal choice for remote monitoring and off-grid applications.
-
-<hr>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
+
+<hr>
 
 
 ## Functional trigger resolution
@@ -97,10 +97,10 @@ Perfect for powering small remote sensors, the Solar Thief Energy Harvester offe
 <li> Reset input overrides and resets to idle.
 </ul>
 <br><br>
-<hr>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
 
+<hr>
 
 
 ## Compromises
@@ -118,11 +118,10 @@ It’s tempting to add more capacitance to increase the circuits run-time, but t
 <br>
 The optimal solution is to size the storage capacitor to the load being driven, keeping the capacitor as small as possible to minimize the parasitic leakage.
 
-<br><br>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
 
-
+<hr>
 
 
 
@@ -164,10 +163,10 @@ And the cycle repeats -
 <img src="images/ppp-schematics.png" alt="Logo" width = 99%>
 
 <a href="board/">KiCad project</a>
-
-<hr>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
+
+<hr>
 
 ## Credits
 <p align="justify" id="credits">
@@ -177,17 +176,17 @@ This project was possible thanks to the wisdom and genius of master <a href="htt
 Circuit design: Leo Fernekes
 <br>
 PCB / KiCad design: TeZ
-
-<hr>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
+
+<hr>
 
 
 ## CONTACT
 <p align="justify" id="contact">
 
 <a href="mailto:tez@solarpunklab.org">tez@solarpunklab.org
-
-<hr>
 <!-------  BACK   --------->
 <p align="left" >[ <a href="#readme-top"> back</a> ]</p>
+
+<hr>
